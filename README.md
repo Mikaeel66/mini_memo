@@ -2,7 +2,7 @@
 
 Kuvaus
 
-Pieni muistio ohjelma.
+Pieni muistio ohjelma(mimo).
 
 Toiminnot:
 
@@ -14,25 +14,14 @@ Toiminnot:
 
 Tekstien talletus aluksi vain tekstinä, myöhemmin html muodossa(kahden viikon jälkeen).
 
-Tietokanta taulut.
-Hakemistot:
-Tekstit:
-Tagit:
-
-RISKIT
-prioriteetti = vakavuus x todennäköisyys, 1..3
-
-Esimerkkejä riskeistä
-1 työmäärä on liian suuri (2 x 3 = 6)
-2 viestintä on puutteellista (2 x 3 = 6)
-3 perehtyminen jää puutteelliseksi (2 x 2 = 4)
-4 tiimijäsen poistuu projektista (3 x 1 = 3)
-5 testausta ei oteta huomioon (1 x 2 = 2)
-
+Tietokanta taulut:
+    Hakemistot
+    Tekstit
+    Tagit
 
 Riskianalyysi: (matala/keskiverto/korkea)
 
 Toteutuminen aikataulussa
-    todennäköisyys:
-    vakavuus:
-    vastatoimet:
+    todennäköisyys: korkea  
+    vakavuus: korkea
+    vastatoimet: ohjelman yksinkertaistaminen.
