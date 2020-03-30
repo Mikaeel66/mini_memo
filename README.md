@@ -1,10 +1,10 @@
-# mini_memo
+### mini_memo
 
-Kuvaus
+#Kuvaus
 
 Pieni muistio ohjelma(mimo).
 
-Toiminnot:
+##Toiminnot:
 
 1.Uusi hakemisto/ryhmä (tarpeettoman poisto vain tietokannan kautta). 
 2.Uusi teksti. Tallennus tietokantaan automaattisesti jokaisen merkin jälkeen.
